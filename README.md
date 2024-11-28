@@ -50,17 +50,22 @@ You need to have a MySQL database running. You can download and install MySQL fr
 
 run main.go 
 
+<img width="378" alt="image" src="https://github.com/user-attachments/assets/e6464d46-7501-4b7d-ac52-776cbbb8304c">
+
 open browser localhost:8080/current-time
 or
-
 curl http://localhost:8080/current-time
 
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/4ab03efb-de70-4ae9-8983-a6980c79d4b0">
 
-now check the mysql table 
+
+Now verify the mysql table 
 
 
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/8a090ec9-0f1e-4796-9b81-4b371b9a510e">
 
 
 the timestamp is successfully stored in table 
+
 
 

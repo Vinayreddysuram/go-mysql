@@ -39,12 +39,12 @@ You need to have a MySQL database running. You can download and install MySQL fr
     );
 
 ### 4. Setup environment variables in the terminal of visual studio/IDE
-    ```bash
+    ```powershell
     $env:DB_USER = "root"
-    $env:DB_PASSWORD = Enter_yout_pasword_here
+    $env:DB_PASSWORD = Enter_your_pasword_here
     $env:DB_NAME = "time_db"
     $env:DB_ADDRESS = "127.0.0.1"
-
+    
 
 ### 5. Test the code
 
